@@ -12,6 +12,7 @@ A linux PIN tool for monitoring branches and functions!!
 
 5.Use this tool by the following command to run the server:
       pin -t obj-intel64/server.so -- target/targetapp
+      
 6.Go to client folder and run "./clinet".
 
 7.See the information in "branch_function_info.txt" file in client folder.
